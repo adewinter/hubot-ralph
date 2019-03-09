@@ -15,7 +15,8 @@ apps = [
 emojis = [
   ':+1:',
   ':dance:',
-  ':shush:'
+  ':shush:',
+  ':spinner:'
 ]
 
 module.exports = (robot) ->
