@@ -1,1 +1,1 @@
-web: bin/hubot -a zulip -n Ralph
+web: bin/hubot -a slack -n Ralph
