@@ -15,7 +15,7 @@
     "url": "https://github.com/github/hubot.git"
   },
   "scripts": {
-    "start": "sh bin/hubot"
+    "start": "sh bin/hubot -n ralph -a slack"
   },
   "dependencies": {
     "cheerio": ">= 0.10.7",
@@ -39,7 +39,7 @@
     "underscore": "1.5.2"
   },
   "engines": {
-    "node": "6.11.1",
-    "npm": "^3.10.10"
+    "node": "10.x.x",
+    "npm": "^6.4.1"
   }
 }
