@@ -35,7 +35,6 @@
     "hubot-isup": "^1.0.2",
     "hubot-karma-classic": "^1.0.3",
     "hubot-maps": "0.0.3",
-    "hubot-pg-brain": "git://github.com/ys/hubot-pg-brain.git",
     "hubot-pugme": "^0.1.1",
     "hubot-redis-brain": "^1.0.0",
     "hubot-rules": "^1.0.0",
