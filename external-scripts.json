@@ -3,5 +3,12 @@
   "hubot-google-images",
   "hubot-giphy-gifme",
   "hubot-karma-classic",
-  "hubot-zmachine"
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-heroku-keepalive",
+  "hubot-google-translate",
+  "hubot-pugme",
+  "hubot-maps",
+  "hubot-rules",
+  "hubot-shipit"
 ]
